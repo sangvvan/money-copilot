@@ -1,0 +1,2 @@
+# money-copilot
+manage finance
